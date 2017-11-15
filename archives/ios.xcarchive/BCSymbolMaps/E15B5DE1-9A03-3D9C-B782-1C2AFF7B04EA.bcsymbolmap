@@ -1,0 +1,9 @@
+BCSymbolMap Version: 2.0
+-[ShareViewController isContentValid]
+-[ShareViewController didSelectPost]
+-[ShareViewController configurationItems]
+_OBJC_METACLASS_$_ShareViewController
+_OBJC_CLASS_$_ShareViewController
+Apple LLVM version 9.0.0 (clang-900.0.38)
+/Users/godrei/Develop/ios/code-sign-test/share-extension/ShareViewController.m
+/Users/godrei/Develop/ios/code-sign-test

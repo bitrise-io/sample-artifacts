@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "A67C964337F2811D23F62A1CBFA7FE722CC3887D" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "ab36ed563bbc3125118e9f27df91474822dc0d46",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A67C964337F2811D23F62A1CBFA7FE722CC3887D",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D20617B-5210-41D9-B2BD-B211954506D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A67C964337F2811D23F62A1CBFA7FE722CC3887D" : "code-sign-test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "code-sign-test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "code-sign-test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:bitrise-samples\/sample-apps-ios-multi-target.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A67C964337F2811D23F62A1CBFA7FE722CC3887D"
+    }
+  ]
+}

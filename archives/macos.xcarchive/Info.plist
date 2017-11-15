@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/Test.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>io.bitrise.archive.Test</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>Mac Developer: Gödrei Krisztian (T3694PR6UJ)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2017-11-15T22:37:26Z</date>
+	<key>Name</key>
+	<string>ActionExtension</string>
+	<key>SchemeName</key>
+	<string>ActionExtension</string>
+</dict>
+</plist>

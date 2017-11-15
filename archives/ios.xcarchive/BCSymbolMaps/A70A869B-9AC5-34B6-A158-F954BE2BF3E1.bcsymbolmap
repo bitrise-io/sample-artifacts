@@ -1,0 +1,26 @@
+BCSymbolMap Version: 2.0
+-[ExtensionDelegate applicationDidFinishLaunching]
+-[ExtensionDelegate applicationDidBecomeActive]
+-[ExtensionDelegate applicationWillResignActive]
+-[ExtensionDelegate handleBackgroundTasks:]
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_WKExtensionDelegate
+l_OBJC_LABEL_PROTOCOL_$_WKExtensionDelegate
+_OBJC_METACLASS_$_ExtensionDelegate
+_OBJC_CLASS_$_ExtensionDelegate
+Apple LLVM version 9.0.0 (clang-900.0.38)
+/Users/godrei/Develop/ios/code-sign-test/watchkit-app Extension/ExtensionDelegate.m
+/Users/godrei/Develop/ios/code-sign-test
+-[InterfaceController awakeWithContext:]
+-[InterfaceController willActivate]
+-[InterfaceController didDeactivate]
+_OBJC_CLASS_$_InterfaceController
+_OBJC_METACLASS_$_InterfaceController
+/Users/godrei/Develop/ios/code-sign-test/watchkit-app Extension/InterfaceController.m
+-[NotificationController init]
+-[NotificationController willActivate]
+-[NotificationController didDeactivate]
+_OBJC_CLASS_$_NotificationController
+_OBJC_METACLASS_$_NotificationController
+/Users/godrei/Develop/ios/code-sign-test/watchkit-app Extension/NotificationController.m
