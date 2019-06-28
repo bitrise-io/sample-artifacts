@@ -1,0 +1,89 @@
+{
+    "meta_data": {
+        "listing_info": {
+            "en-US": {
+                "screenshots": {
+                    "iOS-4-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-4-7-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-5-5-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-5-8-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-6-5-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-iPad": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-iPad-Pro": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-iPad-Pro-10-5-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-iPad-Pro-11-in": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "iOS-iPad-Pro-2018": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "tVOS": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ],
+                    "macOS": [
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg",
+                        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+                    ]
+                },
+                "description": "Description",
+                "promotional_text": "Promotional test",
+                "keywords": [
+                    "keyword_1",
+                    "keyword_2"
+                ],
+                "support_url": "https://www.bitrise.io",
+                "software_url": "https://www.bitrise.io"
+            }
+        },
+        "jwt": {
+            "apple_jwt_issuer": "sadase2eqa",
+            "apple_jwt_private_key_id": "sadase2eqa-sadase2eqa-sadase2eqa",
+            "apple_jwt_private_key_url": "https://www.bitrise.io"
+        },
+        "signing": {
+            "distribution_certificate_passhprase": "pass",
+            "distribution_certificate_url": "https://www.bitrise.io",
+            "use_auto_provision": "false",
+            "app_store_profile_url": "https://www.bitrise.io"
+        },
+        "export_options": {
+            "include_bitcode": "false",
+            "force_developer_team": "7x009092",
+            "force_provisioning_profile": "Bitrise bot profile",
+            "custom_export_option_plist_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<!DOCTYPE plist PUBLIC \r\n<plist version=\"1.0\">\r\n<dict>\r\n    <key>destination<\/key>\r\n    <string>export<\/string>\r\n    <key>method<\/key>\r\n    <string>app-store<\/string>\r\n    <key>signingStyle<\/key>\r\n    <string>automatic<\/string>\r\n    <key>stripSwiftSymbols<\/key>\r\n    <false\/>\r\n    <key>teamID<\/key>\r\n    <string>72SA8V3WYL<\/string>\r\n    <key>uploadBitcode<\/key>\r\n    <false\/>\r\n    <key>uploadSymbols<\/key>\r\n    <false\/>\r\n<\/dict>\r\n<\/plist>"
+        },
+        "sku": "test.loader.application",
+        "apple_user": "example@example.com",
+        "apple_app_specific_password": "2eqdsdas2e"
+    },
+    "artifacts": [
+        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+    ]
+}
