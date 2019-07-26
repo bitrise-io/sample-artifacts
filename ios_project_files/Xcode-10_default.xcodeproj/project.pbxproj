@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0C27C83F61B672187989BB3E /* Pods_Xcode_10_defaultUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCD768AABEB354269802E58 /* Pods_Xcode_10_defaultUITests.framework */; };
+		1B0F4D0622EAD83A00228973 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B0F4D0522EAD83A00228973 /* CloudKit.framework */; };
 		1B1FA38F21FB655D006603E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B1FA38E21FB655D006603E0 /* AppDelegate.swift */; };
 		1B1FA39121FB655D006603E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B1FA39021FB655D006603E0 /* ViewController.swift */; };
 		1B1FA39421FB655D006603E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B1FA39221FB655D006603E0 /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B0F4D0522EAD83A00228973 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		1B1FA38B21FB655D006603E0 /* Xcode-10_default.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Xcode-10_default.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B1FA38E21FB655D006603E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1B1FA39021FB655D006603E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9119AD1BEADD25F5B4EF05FD /* Pods_Xcode_10_default.framework in Frameworks */,
+				1B0F4D0622EAD83A00228973 /* CloudKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +170,7 @@
 		64C38057315983A19EBDD0C3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				1B0F4D0522EAD83A00228973 /* CloudKit.framework */,
 				265B74B23ECF53AAA50FC993 /* Pods_Xcode_10_default.framework */,
 				883004412632CA4F12CB239E /* Pods_Xcode_10_defaultTests.framework */,
 				EBCD768AABEB354269802E58 /* Pods_Xcode_10_defaultUITests.framework */,
@@ -270,13 +274,13 @@
 								enabled = 1;
 							};
 							com.apple.Push = {
-								enabled = 0;
+								enabled = 1;
 							};
 							com.apple.Siri = {
 								enabled = 1;
 							};
 							com.apple.iCloud = {
-								enabled = 0;
+								enabled = 1;
 							};
 						};
 					};
