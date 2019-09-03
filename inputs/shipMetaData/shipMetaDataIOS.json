@@ -84,6 +84,6 @@
         "apple_app_specific_password": "2eqdsdas2e"
     },
     "artifacts": [
-        "https://www.bitrise.io/assets/svg/bitrise-ikon.svg"
+        "https://github.com/bitrise-io/sample-artifacts/blob/master/archives/ios.xcarchive.zip"
     ]
 }
