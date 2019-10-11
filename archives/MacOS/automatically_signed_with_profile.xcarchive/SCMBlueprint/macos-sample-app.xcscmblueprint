@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "084C2FC056403F31C45571CC23368BDDAAA0CFF3" : {
+      "DVTSourceControlBranchIdentifierKey" : "provisioning_profile_automatic",
+      "DVTSourceControlLocationRevisionKey" : "b65fd84a86894e0d0565375f804a180eade81374",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "084C2FC056403F31C45571CC23368BDDAAA0CFF3",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38B82C2A-F6AD-4D7C-898D-ED13D8B2AEB4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "084C2FC056403F31C45571CC23368BDDAAA0CFF3" : "macos-sample-app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "macos-sample-app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "macos-sample-app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:bitrise-io\/macos-sample-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "084C2FC056403F31C45571CC23368BDDAAA0CFF3"
+    }
+  ]
+}
