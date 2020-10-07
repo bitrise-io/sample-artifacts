@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/NPO Live.app</string>
+		<key>Architectures</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>CFBundleIdentifier</key>
+		<string>bdh.NPO-Live.bitrise.sample</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>Apple Development: Áron Szabados (7A8Y8UCM72)</string>
+		<key>Team</key>
+		<string>72SA8V3WYL</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2020-10-07T13:41:10Z</date>
+	<key>Name</key>
+	<string>NPO Live</string>
+	<key>SchemeName</key>
+	<string>NPO Live</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "4FEF3330FBB3F5CFF99DE7EDD9A4ED963C401DB0" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "d0622d68d009a0f3e526b5b2f1e92b16e125be72",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4FEF3330FBB3F5CFF99DE7EDD9A4ED963C401DB0",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "853C890B-D994-4AC3-9820-4C687FE78ECF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4FEF3330FBB3F5CFF99DE7EDD9A4ED963C401DB0" : "sample-apps-tvos-swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NPO Live",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NPO Live.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bitrise-io\/sample-apps-tvos-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4FEF3330FBB3F5CFF99DE7EDD9A4ED963C401DB0"
+    }
+  ]
+}
