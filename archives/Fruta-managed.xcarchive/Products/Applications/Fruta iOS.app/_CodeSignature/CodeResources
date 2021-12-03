@@ -6,11 +6,11 @@
 	<dict>
 		<key>AppClips/Fruta iOS Clip.app/Assets.car</key>
 		<data>
-		DFy9RFgEPk4AJv1LuGUpnqMODhs=
+		zgSOZbQI0LeKkUYXtTUwia0QUYA=
 		</data>
 		<key>AppClips/Fruta iOS Clip.app/Fruta iOS Clip</key>
 		<data>
-		SplmWEn3U4BiAoPH7paRhoE6k3E=
+		AGWpOkkw7GrAN4cj1ptPXrG19s4=
 		</data>
 		<key>AppClips/Fruta iOS Clip.app/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>AppClips/Fruta iOS Clip.app/_CodeSignature/CodeResources</key>
 		<data>
-		MKRVu7Rt8DAxg8X0heUB0b9i384=
+		LqOiL7nMkXYvNJhYuZw6Eh/HxpU=
 		</data>
 		<key>AppClips/Fruta iOS Clip.app/embedded.mobileprovision</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		jYR2bbneboO4QFJDFPl5jTtI5NA=
+		JWfMrpWOHerBMVsXBZ9Ab7tIBtE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/Assets.car</key>
 		<data>
-		5HX9BAy3lIsMe5I7nicKSzLel9o=
+		WDh1EPMBQu/+ZZbEbgM8hBBpu5Y=
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/Fruta iOS Widgets</key>
 		<data>
-		6XdOlc1CoWUwXINWzxDF7Y32zeM=
+		iAAzf9JsdV38uM6hUMS8/KcnqBc=
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/Info.plist</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/_CodeSignature/CodeResources</key>
 		<data>
-		Z49pA80j7C0PE8PFe+kjuXtDem0=
+		jvvlp+hOmvSV1vniDk3O8Ez6kkg=
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/embedded.mobileprovision</key>
 		<data>
-		XLQGA1fV5N0eiMek1NGr/I7S8VY=
+		nuAwRzbBgXP8n54u1+cOVgJFlU4=
 		</data>
 		<key>PlugIns/Fruta iOS Widgets.appex/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -226,7 +226,7 @@
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<data>
-		OboI78x0AaJWATl2gtcZ4vAWGvs=
+		ItoFZUFkY6CPBqF6gRrzrm+IJOE=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -307,14 +307,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yo4sX5gc3nsTP3jd+tS1+2VKwAHgRA29x2Fh8X6unxs=
+			asnjhEBC4WC9m9f8K6BzTER0687YhESVqFI3jW/r/ew=
 			</data>
 		</dict>
 		<key>AppClips/Fruta iOS Clip.app/Fruta iOS Clip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1//xQhBz7mwcQmD9YVqIw44CyZQkTAV38WB1SlhyOVM=
+			PrsrJJ/OX6vnIU7wR4YKdvtP8gEH/jXgxpms4Dv5Wf8=
 			</data>
 		</dict>
 		<key>AppClips/Fruta iOS Clip.app/Info.plist</key>
@@ -342,7 +342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UehnAEv52DUyHopbuLQBvwr9vqbkCT69nn8wAaa1BpU=
+			4AqBCr4GLnORF/3rGJAyE5NGqj+aIy/OxS6t+h2a50Q=
 			</data>
 		</dict>
 		<key>AppClips/Fruta iOS Clip.app/embedded.mobileprovision</key>
@@ -442,7 +442,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lhuFImN73e30pHr/UNg7YJ2KG5F/Dk+CpwaQVxNrVXA=
+			zSDsIj0TpNShaoKUNTQ2niInceQYQ1CLA3gvb1P+X7w=
 			</data>
 		</dict>
 		<key>NutritionalItems.json</key>
@@ -456,14 +456,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			No1tJ6GcvHCPe4O2hynisUHJ5TMgSp+QqaDCTxxup+U=
+			YHo+d/rlat2dX6guNpUC3pJbAcNJkcyJkosKO0A6mBo=
 			</data>
 		</dict>
 		<key>PlugIns/Fruta iOS Widgets.appex/Fruta iOS Widgets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqGvJFg6JNJfEPvW8zws3V772hZq9iG1o9icw8eqh/I=
+			QAITt1+NNKFnxP5C4Y3+WB1QZkk1C37Gg5oYU3HQau4=
 			</data>
 		</dict>
 		<key>PlugIns/Fruta iOS Widgets.appex/Info.plist</key>
@@ -484,14 +484,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WjGplUPcgeqKUFi9+J+aQEYjkdaQ21LOJ7FZJ6PElVY=
+			4aAUTyP0V0eoAnpOaOnWZkFdQDPcbbbQ8GIbgCtvFdA=
 			</data>
 		</dict>
 		<key>PlugIns/Fruta iOS Widgets.appex/embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CkjhnMgAOCsqgtY9wCmxPCthEcbNV7zgEGz2YjLUqHk=
+			q07oV+24keIg9JhLf8Ywc0E8XM4xgB2t5/HEVZlIFaw=
 			</data>
 		</dict>
 		<key>PlugIns/Fruta iOS Widgets.appex/en.lproj/InfoPlist.strings</key>
@@ -570,7 +570,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S59Bm+RmvmwiYs6IciKEa0KmBQoNkRc0xXuaH/CWGCo=
+			NWEvqm1IyiGwF/OgMiaJb1FWucqBPTU9q5wBvn5Kd5Q=
 			</data>
 		</dict>
 		<key>en.lproj/InfoPlist.strings</key>
