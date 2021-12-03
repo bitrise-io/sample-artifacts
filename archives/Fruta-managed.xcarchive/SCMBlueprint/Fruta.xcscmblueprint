@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintLocationsKey" : {
+    "7C7749EBAA66920ADA50B2D8A6956B37225CD478" : {
+      "DVTSourceControlBranchIdentifierKey" : "master",
+      "DVTSourceControlLocationRevisionKey" : "81d5dad3ecf6fb5e720f8099bbdd0775b75b7390",
+      "DVTSourceControlBranchOptionsKey" : 4,
+      "DVTSourceControlBranchRemoteNameKey" : "origin",
+      "DVTSourceControlWorkspaceBlueprintLocationTypeKey" : "DVTSourceControlBranch"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7C7749EBAA66920ADA50B2D8A6956B37225CD478",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F546269E-52E9-40D9-9661-F7586761CFC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7C7749EBAA66920ADA50B2D8A6956B37225CD478" : "Fruta\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fruta",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fruta.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bitrise-io\/Fruta.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C7749EBAA66920ADA50B2D8A6956B37225CD478"
+    }
+  ]
+}
