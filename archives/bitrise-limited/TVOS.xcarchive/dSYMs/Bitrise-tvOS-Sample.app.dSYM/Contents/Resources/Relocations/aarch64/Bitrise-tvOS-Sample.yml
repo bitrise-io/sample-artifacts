@@ -1,0 +1,37 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vagrant/Library/Developer/Xcode/DerivedData/Bitrise-tvOS-Sample-fieymzflzutkzydiwognebgsykeo/Build/Intermediates.noindex/ArchiveIntermediates/Bitrise-tvOS-Sample/InstallationBuildProductsLocation/Applications/Bitrise-tvOS-Sample.app/Bitrise-tvOS-Sample'
+relocations:
+  - { offset: 0x4FF48, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewVMa', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x10 }
+  - { offset: 0x4FF60, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewVMa', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x10 }
+  - { offset: 0x4FF74, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV7SwiftUI0F0AA4BodyAdEP_AGWT', symObjAddr: 0x10, symBinAddr: 0x100004010, symSize: 0x10 }
+  - { offset: 0x50038, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameV2, symObjAddr: 0x344, symBinAddr: 0x100004344, symSize: 0x50 }
+  - { offset: 0x5004C, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA9TupleViewVyAA15ModifiedContentVyAGyAA5ImageVAA30_EnvironmentKeyWritingModifierVyAI5ScaleOGGAA016_ForegroundStyleL0VyAA09TintShapeO0VGG_AA4TextVtGGWOb', symObjAddr: 0x394, symBinAddr: 0x100004394, symSize: 0x50 }
+  - { offset: 0x50060, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI17EnvironmentValuesV10imageScaleAA5ImageV0F0OvpACTKq', symObjAddr: 0x3E4, symBinAddr: 0x1000043E4, symSize: 0x20 }
+  - { offset: 0x50078, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI17EnvironmentValuesV10imageScaleAA5ImageV0F0OvpACTkq', symObjAddr: 0x404, symBinAddr: 0x100004404, symSize: 0x7C }
+  - { offset: 0x50090, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyACyAA5ImageVAA30_EnvironmentKeyWritingModifierVyAE5ScaleOGGAA016_ForegroundStyleI0VyAA09TintShapeL0VGGWOc', symObjAddr: 0x480, symBinAddr: 0x100004480, symSize: 0x50 }
+  - { offset: 0x500A4, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOy', symObjAddr: 0x4D0, symBinAddr: 0x1000044D0, symSize: 0x18 }
+  - { offset: 0x500B8, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4TextV7StorageOWOe', symObjAddr: 0x4E8, symBinAddr: 0x1000044E8, symSize: 0x18 }
+  - { offset: 0x500CC, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyACyAA5ImageVAA30_EnvironmentKeyWritingModifierVyAE5ScaleOGGAA016_ForegroundStyleI0VyAA09TintShapeL0VGGWOh', symObjAddr: 0x500, symBinAddr: 0x100004500, symSize: 0x48 }
+  - { offset: 0x500E0, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI15ModifiedContentVyAA6VStackVyAA9TupleViewVyACyACyAA5ImageVAA30_EnvironmentKeyWritingModifierVyAI5ScaleOGGAA016_ForegroundStyleL0VyAA09TintShapeO0VGG_AA4TextVtGGAA14_PaddingLayoutVGACyxq_GAA0G0A2AA2_RzAA0gL0R_rlWl', symObjAddr: 0x54C, symBinAddr: 0x10000454C, symSize: 0x78 }
+  - { offset: 0x500F4, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstractV2, symObjAddr: 0x5C4, symBinAddr: 0x1000045C4, symSize: 0x54 }
+  - { offset: 0x50108, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI6VStackVyAA9TupleViewVyAA15ModifiedContentVyAGyAA5ImageVAA30_EnvironmentKeyWritingModifierVyAI5ScaleOGGAA016_ForegroundStyleL0VyAA09TintShapeO0VGG_AA4TextVtGGACyxGAA0E0AAWl', symObjAddr: 0x618, symBinAddr: 0x100004618, symSize: 0x50 }
+  - { offset: 0x5011C, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI14_PaddingLayoutVAcA12ViewModifierAAWl', symObjAddr: 0x668, symBinAddr: 0x100004668, symSize: 0x40 }
+  - { offset: 0x5039C, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV4bodyQrvg7SwiftUI05TupleF0VyAE0F0PAEE15foregroundStyleyQrqd__AE05ShapeL0Rd__lFQOyAiEE10imageScaleyQrAE5ImageV0O0OFQOyAN_Qo__AE04TintmL0VQo__AE4TextVtGyXEfU_', symObjAddr: 0x20, symBinAddr: 0x100004020, symSize: 0x240 }
+  - { offset: 0x50460, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV7SwiftUI0F0AadEP05_makeF04view6inputsAD01_F7OutputsVAD11_GraphValueVyxG_AD01_F6InputsVtFZTW', symObjAddr: 0x260, symBinAddr: 0x100004260, symSize: 0x4 }
+  - { offset: 0x50474, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV7SwiftUI0F0AadEP05_makeF4List4view6inputsAD01_fJ7OutputsVAD11_GraphValueVyxG_AD01_fJ6InputsVtFZTW', symObjAddr: 0x264, symBinAddr: 0x100004264, symSize: 0x4 }
+  - { offset: 0x504A9, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV7SwiftUI0F0AadEP14_viewListCount6inputsSiSgAD01_fjK6InputsV_tFZTW', symObjAddr: 0x268, symBinAddr: 0x100004268, symSize: 0x4 }
+  - { offset: 0x50503, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewV7SwiftUI0F0AadEP4body4BodyQzvgTW', symObjAddr: 0x26C, symBinAddr: 0x10000426C, symSize: 0xD8 }
+  - { offset: 0x50811, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppV4bodyQrvgAA11ContentViewVycfU_', symObjAddr: 0x0, symBinAddr: 0x1000046A8, symSize: 0x4 }
+  - { offset: 0x508BB, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppVAC7SwiftUI0E0AAWl', symObjAddr: 0x150, symBinAddr: 0x1000047F4, symSize: 0x40 }
+  - { offset: 0x508CF, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppVMa', symObjAddr: 0x190, symBinAddr: 0x100004834, symSize: 0x10 }
+  - { offset: 0x508E3, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppV7SwiftUI0E0AA4BodyAdEP_AD5ScenePWT', symObjAddr: 0x1A0, symBinAddr: 0x100004844, symSize: 0x10 }
+  - { offset: 0x508F7, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample11ContentViewVAC7SwiftUI0F0AAWl', symObjAddr: 0x200, symBinAddr: 0x100004854, symSize: 0x40 }
+  - { offset: 0x5090B, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI11WindowGroupVy19Bitrise_tvOS_Sample11ContentViewVGACyxGAA5SceneAAWl', symObjAddr: 0x240, symBinAddr: 0x100004894, symSize: 0x50 }
+  - { offset: 0x50920, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppV4bodyQrvgAA11ContentViewVycfU_', symObjAddr: 0x0, symBinAddr: 0x1000046A8, symSize: 0x4 }
+  - { offset: 0x5099C, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample0a1_bc1_D3AppV7SwiftUI0E0AadEP4body4BodyQzvgTW', symObjAddr: 0x4, symBinAddr: 0x1000046AC, symSize: 0x114 }
+  - { offset: 0x50A25, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x11C, symBinAddr: 0x1000047C0, symSize: 0x34 }
+  - { offset: 0x50B0F, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample19ResourceBundleClass33_7D17E202AD0506937C3E1E10AA989E3CLLCfD', symObjAddr: 0x0, symBinAddr: 0x1000048E8, symSize: 0x10 }
+  - { offset: 0x50B51, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample19ResourceBundleClass33_7D17E202AD0506937C3E1E10AA989E3CLLCMa', symObjAddr: 0x10, symBinAddr: 0x1000048F8, symSize: 0x20 }
+  - { offset: 0x50B71, size: 0x8, addend: 0x0, symName: '_$s19Bitrise_tvOS_Sample19ResourceBundleClass33_7D17E202AD0506937C3E1E10AA989E3CLLCfD', symObjAddr: 0x0, symBinAddr: 0x1000048E8, symSize: 0x10 }
+...

@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vagrant/Library/Developer/Xcode/DerivedData/code-sign-test-fiyrenmsthwogweemlgozplfipas/Build/Intermediates.noindex/ArchiveIntermediates/code-sign-test/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/share-extension.appex/share-extension'
+relocations:
+  - { offset: 0x61BFF, size: 0x8, addend: 0x0, symName: '-[ShareViewController isContentValid]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x8 }
+  - { offset: 0x61C1E, size: 0x8, addend: 0x0, symName: '-[ShareViewController isContentValid]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x8 }
+  - { offset: 0x61C51, size: 0x8, addend: 0x0, symName: '-[ShareViewController didSelectPost]', symObjAddr: 0x8, symBinAddr: 0x100004008, symSize: 0x3C }
+  - { offset: 0x61C84, size: 0x8, addend: 0x0, symName: '-[ShareViewController configurationItems]', symObjAddr: 0x44, symBinAddr: 0x100004044, symSize: 0xC }
+...
