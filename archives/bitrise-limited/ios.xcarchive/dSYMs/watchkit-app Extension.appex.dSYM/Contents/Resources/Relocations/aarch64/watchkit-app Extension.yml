@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vagrant/Library/Developer/Xcode/DerivedData/code-sign-test-fiyrenmsthwogweemlgozplfipas/Build/Intermediates.noindex/ArchiveIntermediates/code-sign-test/IntermediateBuildFilesPath/UninstalledProducts/watchos/watchkit-app Extension.appex/watchkit-app Extension'
+relocations:
+  - { offset: 0x626FF, size: 0x8, addend: 0x0, symName: '-[ExtensionDelegate applicationDidFinishLaunching]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x4 }
+  - { offset: 0x6271E, size: 0x8, addend: 0x0, symName: '-[ExtensionDelegate applicationDidFinishLaunching]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x4 }
+  - { offset: 0x6274D, size: 0x8, addend: 0x0, symName: '-[ExtensionDelegate applicationDidBecomeActive]', symObjAddr: 0x4, symBinAddr: 0x100004004, symSize: 0x4 }
+  - { offset: 0x6277C, size: 0x8, addend: 0x0, symName: '-[ExtensionDelegate applicationWillResignActive]', symObjAddr: 0x8, symBinAddr: 0x100004008, symSize: 0x4 }
+  - { offset: 0x627AB, size: 0x8, addend: 0x0, symName: '-[ExtensionDelegate handleBackgroundTasks:]', symObjAddr: 0xC, symBinAddr: 0x10000400C, symSize: 0x1B0 }
+  - { offset: 0x62887, size: 0x8, addend: 0x0, symName: '-[InterfaceController awakeWithContext:]', symObjAddr: 0x0, symBinAddr: 0x1000041BC, symSize: 0x34 }
+  - { offset: 0x628A6, size: 0x8, addend: 0x0, symName: '-[InterfaceController awakeWithContext:]', symObjAddr: 0x0, symBinAddr: 0x1000041BC, symSize: 0x34 }
+  - { offset: 0x628E9, size: 0x8, addend: 0x0, symName: '-[InterfaceController willActivate]', symObjAddr: 0x34, symBinAddr: 0x1000041F0, symSize: 0x34 }
+  - { offset: 0x6291C, size: 0x8, addend: 0x0, symName: '-[InterfaceController didDeactivate]', symObjAddr: 0x68, symBinAddr: 0x100004224, symSize: 0x34 }
+  - { offset: 0x629CA, size: 0x8, addend: 0x0, symName: '-[NotificationController init]', symObjAddr: 0x0, symBinAddr: 0x100004258, symSize: 0x34 }
+  - { offset: 0x629E9, size: 0x8, addend: 0x0, symName: '-[NotificationController init]', symObjAddr: 0x0, symBinAddr: 0x100004258, symSize: 0x34 }
+  - { offset: 0x62A20, size: 0x8, addend: 0x0, symName: '-[NotificationController willActivate]', symObjAddr: 0x34, symBinAddr: 0x10000428C, symSize: 0x34 }
+  - { offset: 0x62A53, size: 0x8, addend: 0x0, symName: '-[NotificationController didDeactivate]', symObjAddr: 0x68, symBinAddr: 0x1000042C0, symSize: 0x34 }
+...

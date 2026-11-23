@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vagrant/Library/Developer/Xcode/DerivedData/code-sign-test-fiyrenmsthwogweemlgozplfipas/Build/Intermediates.noindex/ArchiveIntermediates/code-sign-test/InstallationBuildProductsLocation/Applications/code-sign-test.app/code-sign-test'
+relocations:
+  - { offset: 0x617D2, size: 0x8, addend: 0x0, symName: '-[ViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x34 }
+  - { offset: 0x617F1, size: 0x8, addend: 0x0, symName: '-[ViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x100004000, symSize: 0x34 }
+  - { offset: 0x61824, size: 0x8, addend: 0x0, symName: '-[ViewController didReceiveMemoryWarning]', symObjAddr: 0x34, symBinAddr: 0x100004034, symSize: 0x34 }
+  - { offset: 0x618A2, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100004068, symSize: 0x78 }
+  - { offset: 0x618B0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100004068, symSize: 0x78 }
+  - { offset: 0x619B6, size: 0x8, addend: 0x0, symName: '-[AppDelegate application:didFinishLaunchingWithOptions:]', symObjAddr: 0x0, symBinAddr: 0x1000040E0, symSize: 0x8 }
+  - { offset: 0x619F9, size: 0x8, addend: 0x0, symName: '-[AppDelegate application:didFinishLaunchingWithOptions:]', symObjAddr: 0x0, symBinAddr: 0x1000040E0, symSize: 0x8 }
+  - { offset: 0x61A44, size: 0x8, addend: 0x0, symName: '-[AppDelegate applicationWillResignActive:]', symObjAddr: 0x8, symBinAddr: 0x1000040E8, symSize: 0x4 }
+  - { offset: 0x61A7F, size: 0x8, addend: 0x0, symName: '-[AppDelegate applicationDidEnterBackground:]', symObjAddr: 0xC, symBinAddr: 0x1000040EC, symSize: 0x4 }
+  - { offset: 0x61ABA, size: 0x8, addend: 0x0, symName: '-[AppDelegate applicationWillEnterForeground:]', symObjAddr: 0x10, symBinAddr: 0x1000040F0, symSize: 0x4 }
+  - { offset: 0x61AF5, size: 0x8, addend: 0x0, symName: '-[AppDelegate applicationDidBecomeActive:]', symObjAddr: 0x14, symBinAddr: 0x1000040F4, symSize: 0x4 }
+  - { offset: 0x61B30, size: 0x8, addend: 0x0, symName: '-[AppDelegate applicationWillTerminate:]', symObjAddr: 0x18, symBinAddr: 0x1000040F8, symSize: 0x4 }
+  - { offset: 0x61B6B, size: 0x8, addend: 0x0, symName: '-[AppDelegate window]', symObjAddr: 0x1C, symBinAddr: 0x1000040FC, symSize: 0x10 }
+  - { offset: 0x61BA2, size: 0x8, addend: 0x0, symName: '-[AppDelegate setWindow:]', symObjAddr: 0x2C, symBinAddr: 0x10000410C, symSize: 0x14 }
+  - { offset: 0x61BE3, size: 0x8, addend: 0x0, symName: '-[AppDelegate .cxx_destruct]', symObjAddr: 0x40, symBinAddr: 0x100004120, symSize: 0x14 }
+...
